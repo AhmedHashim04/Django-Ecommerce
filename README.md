@@ -46,7 +46,8 @@
     ```bash
     python manage.py createsuperuser
     ```
-
+    خق
+قق
 5. **Run the development server**:
     ```bash
     python manage.py runserver
@@ -55,7 +56,9 @@
 6. **Access the admin panel**:
     - URL: `http://localhost:8000/admin/`
     - Use the superuser credentials created earlier.
-
+or u cane use
+    **username : 1
+    **password : 1
 ## How to Use
 
 - **Customers**: Browse products, add items to the cart, and proceed to checkout.
